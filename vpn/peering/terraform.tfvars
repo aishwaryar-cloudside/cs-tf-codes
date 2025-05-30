@@ -1,0 +1,8 @@
+project_id          = c91-mgmt-network-hub"
+region              = "asia-south1"
+network             = "cs-vpc-transit"
+org                 = "card91"
+region_code         = "ass1"
+env                 = "mgmt"
+src                 = "gcp"
+destination         = "aws"
